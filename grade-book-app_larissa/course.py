@@ -3,4 +3,3 @@ class Course:
         self.name = name
         self.trimester = trimester
         self.credits = credits
-        self.grade = None
